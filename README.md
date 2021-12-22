@@ -1,1 +1,1 @@
-# mappings-examples
+# Stedi Mappings Examples
