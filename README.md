@@ -2,6 +2,10 @@
 
 A collection of ready-to-use Stedi mappings.
 
+## Questions? Get in touch!
+
+Email [team@stedi.com](mailto:team@stedi.com) if you have any questions!
+
 ## Links
 
 - [Introduction to Stedi](https://www.stedi.com/docs/getting-started/introduction-to-stedi)
