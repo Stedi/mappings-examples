@@ -1,4 +1,10 @@
-# Stedi Mappings Examples
+# (deprecate) 
+
+Moved to https://github.com/Stedi/api-starter-pack
+
+
+---
+## Stedi Mappings Examples
 
 A collection of ready-to-use Stedi mappings.
 
